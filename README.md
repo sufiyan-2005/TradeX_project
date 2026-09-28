@@ -1,12 +1,12 @@
-# Zerodha — Full-Stack Stock Trading Platform
+# TradeX — Full-Stack Stock Trading Platform
 
-A full-stack stock trading platform inspired by Zerodha, built to explore how modern financial applications are designed and developed using the MERN stack.
+A full-stack stock trading platform inspired by TradeX, built to explore how modern financial applications are designed and developed using the MERN stack.
 
 This project brings together a public-facing trading platform website, an interactive trading dashboard, and a Node.js backend with MongoDB models for managing trading-related data.
 
 The goal was not just to build a website that looks like a trading platform, but to understand how different parts of a full-stack application work together—from the user interface to the backend and database.
 
-> **Note:** This is an educational project inspired by Zerodha. It is not affiliated with or operated by Zerodha, and it does not represent a real stock brokerage service.
+> **Note:** This is an educational project inspired by TradeX. It is not affiliated with or operated by TradeX, and it does not represent a real stock brokerage service.
 
 ---
 
