@@ -11,18 +11,14 @@ The goal was not just to build a website that looks like a trading platform, but
 ---
 
 ## 🚀 Live Demo
+[![Uploading image.png…]()](https://zerodha-project-eight.vercel.app/)
 
-* **Frontend:** [TODO — Add deployed frontend URL]
-* **Dashboard:** [TODO — Add deployed dashboard URL]
-* **Backend API:** [TODO — Add deployed backend URL]
 
 ## 📸 Screenshots
 
-Add screenshots of your project here to help visitors quickly understand the interface.
-
 ### Landing Page
 
-[TODO — Add landing page screenshot]
+
 
 ### Trading Dashboard
 
