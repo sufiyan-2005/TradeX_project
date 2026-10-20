@@ -22,11 +22,9 @@ The goal was not just to build a website that looks like a trading platform, but
 
 ### Trading Dashboard
 
-[TODO — Add dashboard screenshot]
 
 ### Holdings / Orders
 
-[TODO — Add holdings or orders screenshot]
 
 ---
 
